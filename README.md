@@ -1,8 +1,5 @@
 ****************
-* Project number/name: DoubleLinkedList
-* Class: CS-221-2
-* Date: 11/17/2023
-* Your name: Anup Bhattarai
+* Project name: DoubleLinkedList
 **************** 
 
 OVERVIEW:
@@ -45,7 +42,7 @@ PROGRAM DESIGN AND IMPORTANT CONCEPTS:
  - ModCount Tracking:
    The ModCount variabble keeps track of modifications made during iteration which help detect changes and ensure accurate iteration over the list. 
 
- The primary responsibilities of the IUDoubleLinkedList class include:
+ The primary responsibilities of the IUDounumber/bleLinkedList class include:
 
  - Adding elements:
     Adding elements to the front, rear, or at specific indices.
